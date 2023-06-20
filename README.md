@@ -28,10 +28,11 @@ Bu, C# dilinde geliştirilmiş ücretsiz ve açık kaynaklı bir Whois Sorgulama
 ## Gereksinimler
 
 - Bu programı çalıştırmak için .NET Core SDK'nın (3.1 veya daha yeni sürümü) bilgisayarınıza yüklü olması gerekmektedir.
+- .NET Core SDK'nın 7.0 Sürümünü kullanmayınız.
 
 ## Katkıda Bulunma
 
-Bu proje açık kaynaklıdır ve katkıda bulunmaktan mutluluk duyarız. Eğer bir hata bulursanız veya bir iyileştirme öneriniz varsa, lütfen ixbir.net adresinde https://ixbir.net/konu-whois-sorgulama-araci-c-konsol-acik-kaynak.html?pid=280119#pid280119   konusuna yorum gönderin.
+Bu proje açık kaynaklıdır ve katkıda bulunmanızdan mutluluk duyarız. Eğer bir hata bulursanız veya bir iyileştirme öneriniz varsa, lütfen ixbir.net adresinde https://ixbir.net/konu-whois-sorgulama-araci-c-konsol-acik-kaynak.html?pid=280119#pid280119 konusuna yorum gönderin.
 
 ## Lisans
 
